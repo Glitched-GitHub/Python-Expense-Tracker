@@ -1,0 +1,107 @@
+1. Housing
+
+    Rent/Mortgage
+    Property Taxes
+    Home Insurance
+    Utilities (Electricity, Water, Gas)
+    Home Maintenance/Repairs
+
+2. Transportation
+
+    Public Transit (Bus, Train, Subway)
+    Fuel/Gasoline
+    Car Payment/Lease
+    Car Insurance
+    Vehicle Maintenance (Repairs, Oil Change)
+    Parking Fees
+    Ride-Sharing (Uber, Lyft)
+
+3. Food & Dining
+
+    Groceries
+    Restaurants/Dining Out
+    Coffee Shops
+    Snacks
+    Meal Delivery Services
+
+4. Entertainment & Leisure
+
+    Movies/Cinema
+    Concerts/Events
+    Hobbies
+    Subscriptions (Netflix, Spotify)
+    Books & Magazines
+    Video Games
+    Travel/Vacations
+
+5. Health & Wellness
+
+    Health Insurance
+    Medical Bills/Doctor Visits
+    Dental Care
+    Medications/Pharmacy
+    Fitness/Gym Membership
+    Mental Health Services
+
+6. Personal Care
+
+    Haircuts/Salons
+    Skincare/Cosmetics
+    Clothing & Accessories
+    Laundry/Dry Cleaning
+
+7. Education & Personal Development
+
+    Tuition Fees
+    Books & Educational Materials
+    Courses/Workshops
+    Certifications
+
+8. Family & Childcare
+
+    Childcare/Babysitting
+    School Fees
+    Allowances
+    Pet Care (Food, Vet Bills, Grooming)
+
+9. Savings & Investments
+
+    Emergency Fund
+    Retirement Savings
+    Investments (Stocks, Bonds, etc.)
+    Savings Contributions
+
+10. Debt Repayment
+
+    Credit Card Payments
+    Loan Payments (Personal, Student, Auto)
+    Mortgage Principal Payments
+
+11. Gifts & Donations
+
+    Charitable Donations
+    Gifts (Birthdays, Holidays)
+    Church/Religious Offerings
+
+12. Miscellaneous
+
+    Office Supplies
+    Postage/Shipping
+    Bank Fees
+    Insurance Premiums (other than health and car)
+    Miscellaneous Small Purchases
+
+13. Emergencies & Unexpected Expenses
+
+    Car Repairs
+    Medical Emergencies
+    Home Repairs
+    Travel Emergencies
+
+14. Business Expenses (if applicable)
+
+    Office Supplies
+    Business Travel
+    Advertising/Marketing
+    Professional Services (Legal, Accounting)
+    Software Subscriptions

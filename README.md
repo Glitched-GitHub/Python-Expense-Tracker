@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/930d02ef-0f9b-4adc-85e2-412f7990acf0
 
 - Goals:
 
-  The main goal of this project was to learn basic Javascript such as functions, if-else statements, loops and more.
+  The main goal of this project was to learn basic Python such as functions, if-else statements, loops and more.
 
 **Programming Languages Used**
 
